@@ -1,10 +1,40 @@
-### Project Description: Full-Stack Dashboard Application with Next.js 14
+###  Full-Stack Dashboard Application with Next.js 14
 
+
+### Usage Guide
+
+#### Access the Dashboard:
+- **Live Demo:** [Visit the Dashboard](https://nextjs-dashboard-vasanthgxs-projects.vercel.app/)
+- **Username:** `user@nextmail.com`
+- **Password:** `123456`
 
 ![alt text](image.png)
 
 
+#### Main Features:
+- **High Performance:** Take advantage of server-side rendering (SSR) for superior SEO and rapid initial page load times.
+- **Customization:** Easily adapt layouts, styles, and components to meet your specific design and functional needs.
+- **Data Insights:** Utilize robust charting libraries to transform your data into actionable insights.
+- **User-Friendly:** Get started quickly with a streamlined setup process and an intuitive development workflow.
+
+
 ![alt text](image-1.png)
+
+#### Quick Start:
+1. **Clone the Repository:** Get the codebase on your local machine.
+2. **Install Dependencies:** Run `yarn install` to set up all required packages.
+3. **Launch the Development Server:** Use `yarn run dev` to start the application locally.
+4. **Personalize Your Dashboard:** Modify and expand the dashboard to suit your project needs.
+
+#### Documentation
+Explore the [official documentation](https://nextjs.org/learn) for detailed guides, examples, and API references.
+
+
+
+---
+
+
+
 
 #### Introduction
 This project focuses on developing a comprehensive full-stack web application using Next.js 14. The dashboard application leverages the Next.js App Router, which simplifies routing and enhances performance with built-in features. The primary goal is to create a scalable and efficient dashboard that offers a seamless user experience, integrating various modern web technologies. The project will explore the benefits of Next.js and how it can be utilized to build robust applications with optimized performance.
